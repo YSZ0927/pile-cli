@@ -7,6 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
+  "bin": {
+    "lib-cli": "./bin/www"
+  },
   "license": "ISC",
   "dependencies": {
     "commander": "^6.1.0"
